@@ -80,7 +80,6 @@ Sparse-Sensor-Based-Turbulent-Flow-Reconstruction
 │
 ├── images/
 │
-├── results/
 │
 └── README.md
 ```
